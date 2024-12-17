@@ -75,3 +75,29 @@ Apoyate en los siguientes recursos para realizar la práctica:
    - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
 4. **Compilación y Ejecución:**
    - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
+  
+// Tarea de clase
+
+class curso{
+    private var nombre: String = ""
+    private var codigo: String = ""
+
+    fun agregarAlumnos(){
+    }
+
+}
+class estudiante{
+    private var nombre: String = ""
+    private var dni: String = ""
+
+    fun incribirse(){
+    }
+    fun mostrainscritos(){
+    }
+}
+
+fun main(){
+    var curso = estudiante()
+    var estudiante = estudiante()
+
+}
